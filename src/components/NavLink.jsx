@@ -5,7 +5,7 @@ import calendlyLogo from "../assets/images/homepage/calendly_logo.svg";
 const NavLink = () => {
   return (
     <div>
-      <div className="flex flex-row items-center justify-center gap-7 font-semibold ml-[-180px] mb-10">
+      <div className="flex flex-row items-center justify-center gap-8 font-semibold ml-[-180px] mb-10">
         <Link to="/">
           <img
             src={calendlyLogo}
